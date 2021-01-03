@@ -1,0 +1,10 @@
+adminUser:
+  password: local:demo-jenkinx-ne/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: envoyfacilitation@gmail.com
+  token: local:demo-jenkinx-ne/pipelineUser:token
+  username: my-jx-boot
+prow:
+  hmacToken: local:demo-jenkinx-ne/prow:hmacToken
