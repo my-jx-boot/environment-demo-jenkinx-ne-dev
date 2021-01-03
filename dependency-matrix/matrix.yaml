@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: qbitflames
+  repo: python-app-1
+  url: https://github.com/qbitflames/python-app-1.git
+  version: ""
+  versionURL: ""

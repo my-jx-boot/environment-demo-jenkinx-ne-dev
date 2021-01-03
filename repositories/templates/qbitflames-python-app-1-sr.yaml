@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: qbitflames
+    provider: github
+    repository: python-app-1
+  name: qbitflames-python-app-1
+spec:
+  description: Imported application for qbitflames/python-app-1
+  httpCloneURL: https://github.com/qbitflames/python-app-1.git
+  org: qbitflames
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: python-app-1
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/qbitflames/python-app-1.git
